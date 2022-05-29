@@ -17,4 +17,9 @@ int main() {
   // This is the correct way
   b = (long long)a * a;
   printf("%lld \n", b);
+
+  double p = 24234.15;
+  long double q = 23423429535.2353535;
+
+  printf("%.2f %.5Lf \n", p, q);
 }
