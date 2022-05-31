@@ -2,7 +2,7 @@
 Repository to pratice and keep track of my progress in competitive programming.
 
 ## Resources Used
-* Competitive Programmer's Handbook by Antti Laaksonen
+* [Competitive Programmer's Handbook by Antti Laaksonen](./resources/competitive_programming.pdf)
 
 ## How to Guides
 
