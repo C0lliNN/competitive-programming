@@ -1,8 +1,13 @@
 # Competitive Programming
 Repository to pratice and keep track of my progress in competitive programming.
 
-## Resources Used
+## [Resources Used](./resources)
 * [Competitive Programmer's Handbook by Antti Laaksonen](./resources/competitive_programming.pdf)
+* Codeforces
+* AtCoder
+* CS Academy
+* Facebook Hacker Cup
+* Introduction to Algorithms
 
 ## How to Guides
 
